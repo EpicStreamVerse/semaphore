@@ -1,5 +1,5 @@
 ---
-- hosts: ESV-EU-001
+- hosts: eu-001
   become: true
   tasks:
     - name: Print OS info
